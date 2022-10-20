@@ -7,7 +7,7 @@
 html{
     font-size: 62.5%;
     cursor: url(../cursor/gam308.cur), progress !important;
-    background: url(/Maple_Love/assets/img/background.jpg) no-repeat fixed center;
+    background: url(../img/background.jpg) no-repeat fixed center;
     font-family: 'Black Ops One', cursive;
 }
 

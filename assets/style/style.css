@@ -1,5 +1,5 @@
-.header {
-
+.main {
+    
 }
 
 .header__logo {
@@ -103,3 +103,27 @@
 
 }
 
+/* Footer */
+.footer {
+    margin-top: 30rem;
+    background-color: #fff;
+    opacity: 0.9;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer__info-content {
+    font-size: 1.5rem;
+}
+
+.footer__info-copyright {
+    color: rgb(214, 63, 63);
+}
+
+.dev-name {
+    text-decoration: none;
+    color: #676666;
+}
